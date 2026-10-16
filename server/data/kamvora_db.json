@@ -1,0 +1,720 @@
+{
+  "categories": [
+    {
+      "_id": "cat_1",
+      "name": "Handmade Embroidery",
+      "slug": "handmade-embroidery",
+      "description": "Intricately hand-stitched hoop art, botanical tapestries, and customized thread memories.",
+      "image": "https://res.cloudinary.com/n663kqtu/image/upload/v1792166248/kamvora_studio/categories/iqpy0kvyy9jcutvv6zsj.jpg",
+      "isActive": true,
+      "createdAt": "2026-10-15T16:51:38.942Z"
+    },
+    {
+      "_id": "cat_2",
+      "name": "Resin Art",
+      "slug": "resin-art",
+      "description": "High-gloss crystal resin creations with ocean swirls, gold leafing, and floral preservations.",
+      "image": "https://res.cloudinary.com/n663kqtu/image/upload/v1792166249/kamvora_studio/categories/y0hl0yrw72lyz42iwjck.jpg",
+      "isActive": true,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "cat_3",
+      "name": "Fabric Painting",
+      "slug": "fabric-painting",
+      "description": "Wearable art, hand-painted sarees, dupattas, cushion covers, and organic canvas totes.",
+      "image": "https://res.cloudinary.com/n663kqtu/image/upload/v1792166250/kamvora_studio/categories/omo6jrmw1ipsjjusfjau.jpg",
+      "isActive": true,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "cat_4",
+      "name": "Portraits",
+      "slug": "portraits",
+      "description": "Hand-drawn charcoal, graphite, and watercolor portrait sketches made with emotional depth.",
+      "image": "https://res.cloudinary.com/n663kqtu/image/upload/v1792166251/kamvora_studio/categories/w0lea6fselkqxuvo4m5j.jpg",
+      "isActive": true,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "cat_5",
+      "name": "Handmade Gifts",
+      "slug": "handmade-gifts",
+      "description": "Thoughtfully curated artisan gift hampers, keepsake wooden boxes, and festive tokens.",
+      "image": "https://res.cloudinary.com/n663kqtu/image/upload/v1792166252/kamvora_studio/categories/pyfuiaxximqivmgf9iyi.jpg",
+      "isActive": true,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "cat_6",
+      "name": "Customized Gifts",
+      "slug": "customized-gifts",
+      "description": "Bespoke gifts personalized with names, anniversary dates, heartfelt letters, and photos.",
+      "image": "https://res.cloudinary.com/n663kqtu/image/upload/v1792166254/kamvora_studio/categories/lsigtocqi2cbjsnfmmot.jpg",
+      "isActive": true,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "cat_7",
+      "name": "Home Decor",
+      "slug": "home-decor",
+      "description": "Boho macrame wall hangings, terracotta accents, tea light holders, and decorative platters.",
+      "image": "https://res.cloudinary.com/n663kqtu/image/upload/v1792166255/kamvora_studio/categories/dticyeunkpwb9whrfz20.jpg",
+      "isActive": true,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "cat_8",
+      "name": "Personalized Accessories",
+      "slug": "personalized-accessories",
+      "description": "Floral resin bookmarks, initial alphabet keychains, pendants, and dainty artisan trinkets.",
+      "image": "https://res.cloudinary.com/n663kqtu/image/upload/v1792166256/kamvora_studio/categories/a2i1rfk9vn4kqhgqhe49.jpg",
+      "isActive": true,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    }
+  ],
+  "products": [
+    {
+      "_id": "prod_1",
+      "name": "Celestial Bloom Embroidered Floral Hoop (10-inch)",
+      "slug": "celestial-bloom-embroidered-floral-hoop",
+      "description": "Meticulously hand-embroidered on pure organic cotton linen using premium anchor cotton threads. Features intricate French knots, bullion roses, and celestial golden metallic thread accents. Mounted on a polished natural beechwood embroidery hoop ready to grace any wall.",
+      "shortDescription": "Handcrafted 10-inch botanical floral embroidery with golden starry thread accents.",
+      "price": 1850,
+      "discountPrice": 1499,
+      "category": {
+        "_id": "cat_1",
+        "name": "Handmade Embroidery",
+        "slug": "handmade-embroidery"
+      },
+      "categoryName": "Handmade Embroidery",
+      "stock": 11,
+      "images": [
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166257/kamvora_studio/products/t1ib3mipojny7v2dfktj.jpg",
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166259/kamvora_studio/products/a4x7yqjuind7o4cxfuin.jpg"
+      ],
+      "isFeatured": true,
+      "isAvailable": true,
+      "tags": [
+        "embroidery",
+        "floral",
+        "hoop-art",
+        "wall-decor",
+        "handmade"
+      ],
+      "specifications": {
+        "materials": "100% Cotton Linen, Egyptian Thread, Beechwood Hoop",
+        "dimensions": "10 inches (25.4 cm) diameter",
+        "careInstructions": "Keep dry, dust gently with soft brush. Avoid prolonged intense sunlight.",
+        "handmadeIn": "Kamvora Studio, Mohali, Punjab",
+        "craftType": "Needlework & Hand Embroidery",
+        "weight": "180g"
+      },
+      "customizationAvailable": true,
+      "customizationGuide": "Custom initials, wedding dates, or quote embroidery can be stitched upon request.",
+      "rating": 5,
+      "numReviews": 8,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "prod_2",
+      "name": "Personalized Botanical Wedding Monogram Hoop",
+      "slug": "personalized-botanical-wedding-monogram-hoop",
+      "description": "Celebrate lasting love with our signature heirloom wedding hoop. Stitched with delicate wild blossoms, eucalyptus sprigs, and the couple’s entwined monogram initials and significant date in shimmering metallic thread.",
+      "shortDescription": "Customized couple wedding and anniversary embroidery hoop with monogram.",
+      "price": 2200,
+      "discountPrice": 1899,
+      "category": {
+        "_id": "cat_1",
+        "name": "Handmade Embroidery",
+        "slug": "handmade-embroidery"
+      },
+      "categoryName": "Handmade Embroidery",
+      "stock": 15,
+      "images": [
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166259/kamvora_studio/products/a4x7yqjuind7o4cxfuin.jpg",
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166257/kamvora_studio/products/t1ib3mipojny7v2dfktj.jpg"
+      ],
+      "isFeatured": true,
+      "isAvailable": true,
+      "tags": [
+        "wedding-gift",
+        "anniversary",
+        "customized-embroidery",
+        "monogram"
+      ],
+      "specifications": {
+        "materials": "Unbleached Organic Muslin, German Anchor Floss, Wood Frame",
+        "dimensions": "12 inches diameter",
+        "careInstructions": "Dust with clean dry cloth. Store in temperate indoor spaces.",
+        "handmadeIn": "Kamvora Studio, Mohali, Punjab",
+        "craftType": "Custom Hand Needlework",
+        "weight": "220g"
+      },
+      "customizationAvailable": true,
+      "customizationGuide": "Please enter Couple Names and Wedding/Anniversary Date in the order notes.",
+      "rating": 4.9,
+      "numReviews": 12,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "prod_3",
+      "name": "Azure Ocean Wave Resin Wall Clock (14-inch Silent Quartz)",
+      "slug": "azure-ocean-wave-resin-wall-clock",
+      "description": "Capturing the wild beauty of turquoise ocean tides crashing against golden sandy shores. Made with multilayered art-grade UV-resistant crystal resin on seasoned MDF wood, finished with sleek gold clock hands and a silent sweep quartz movement.",
+      "shortDescription": "14-inch handcrafted resin ocean tide wall clock with silent quartz movement.",
+      "price": 3499,
+      "discountPrice": 2999,
+      "category": {
+        "_id": "cat_2",
+        "name": "Resin Art",
+        "slug": "resin-art"
+      },
+      "categoryName": "Resin Art",
+      "stock": 8,
+      "images": [
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166260/kamvora_studio/products/zyqy6f9sf81f4ks7kokg.jpg",
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166261/kamvora_studio/products/skoj7re0kwjxbwjdnoc8.jpg"
+      ],
+      "isFeatured": true,
+      "isAvailable": true,
+      "tags": [
+        "resin-clock",
+        "ocean-wave",
+        "wall-art",
+        "luxury-decor"
+      ],
+      "specifications": {
+        "materials": "Non-Toxic Art Resin, Real Beach Sand, Quartz Sweep Mechanism",
+        "dimensions": "14 inches (35.5 cm) diameter, 18mm thickness",
+        "careInstructions": "Wipe with microfiber cloth. Keep away from direct heaters or radiators.",
+        "handmadeIn": "Kamvora Studio, Mohali, Punjab",
+        "craftType": "Ocean Resin Fluid Art",
+        "weight": "1.2 kg"
+      },
+      "customizationAvailable": true,
+      "customizationGuide": "Custom diameters and numbering font styles available upon request.",
+      "rating": 4.9,
+      "numReviews": 15,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "prod_4",
+      "name": "Gilded Geode Resin Coasters (Set of 6 with Holder)",
+      "slug": "gilded-geode-resin-coasters-set-of-6",
+      "description": "Transform your coffee table into an opulent gallery. Hand-cast geode-inspired coasters accented with translucent emerald and cream pigments, shimmering mica crystals, and luxurious hand-painted 24K liquid gold leaf edges.",
+      "shortDescription": "Luxury set of 6 heat-resistant crystal resin coasters with gold-leafed rims.",
+      "price": 1299,
+      "discountPrice": 999,
+      "category": {
+        "_id": "cat_2",
+        "name": "Resin Art",
+        "slug": "resin-art"
+      },
+      "categoryName": "Resin Art",
+      "stock": 20,
+      "images": [
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166262/kamvora_studio/products/hsirc3x2zyjhvf6nuehp.jpg",
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166260/kamvora_studio/products/zyqy6f9sf81f4ks7kokg.jpg"
+      ],
+      "isFeatured": false,
+      "isAvailable": true,
+      "tags": [
+        "coasters",
+        "resin",
+        "geode",
+        "gold-leaf",
+        "tableware"
+      ],
+      "specifications": {
+        "materials": "Heat-Resistant Food Safe Resin, Mica Pigments, Liquid Leaf",
+        "dimensions": "Approx 4.5 inches each, 8mm thickness",
+        "careInstructions": "Hand wash with mild soapy water. Not dishwasher or microwave safe.",
+        "handmadeIn": "Kamvora Studio, Mohali, Punjab",
+        "craftType": "Resin Geode Casting",
+        "weight": "450g"
+      },
+      "customizationAvailable": true,
+      "customizationGuide": "Can be customized in blush rose, sapphire blue, or smoky quartz hues.",
+      "rating": 4.8,
+      "numReviews": 9,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "prod_5",
+      "name": "Hand-Painted Chanderi Silk Floral Dupatta",
+      "slug": "hand-painted-chanderi-silk-floral-dupatta",
+      "description": "Exquisite hand-painted botanical artwork on sheer, lightweight pure Chanderi silk. Features freehand vintage English roses in soft coral, sage green, and dust gold accents. Color-fast textile pigments ensure durable, lasting vibrance.",
+      "shortDescription": "Bespoke hand-painted floral motifs on pure Chanderi silk dupatta (2.5m).",
+      "price": 2899,
+      "discountPrice": 2450,
+      "category": {
+        "_id": "cat_3",
+        "name": "Fabric Painting",
+        "slug": "fabric-painting"
+      },
+      "categoryName": "Fabric Painting",
+      "stock": 6,
+      "images": [
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166263/kamvora_studio/products/rz3renydl3u1dapw0vqv.jpg",
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166257/kamvora_studio/products/t1ib3mipojny7v2dfktj.jpg"
+      ],
+      "isFeatured": true,
+      "isAvailable": true,
+      "tags": [
+        "fabric-painting",
+        "silk-dupatta",
+        "wearable-art",
+        "traditional-craft"
+      ],
+      "specifications": {
+        "materials": "Pure Chanderi Silk, Non-Toxic Permanent Fabric Acrylics",
+        "dimensions": "2.5 meters length, 36 inches width",
+        "careInstructions": "Dry clean only or gentle hand wash in cold water with mild detergent.",
+        "handmadeIn": "Kamvora Studio, Mohali, Punjab",
+        "craftType": "Freehand Textile Artistry",
+        "weight": "160g"
+      },
+      "customizationAvailable": true,
+      "customizationGuide": "Custom base fabric colors and personalized floral patterns available.",
+      "rating": 5,
+      "numReviews": 6,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "prod_6",
+      "name": "Artisanal Hand-Painted Canvas Tote Bag (Sunflowers)",
+      "slug": "artisanal-hand-painted-canvas-tote-sunflowers",
+      "description": "A charming, eco-friendly lifestyle tote made from thick, durable 12oz natural cotton canvas. Hand-painted with cheerful Vincent-inspired textured sunflowers that bring sunshine to your daily errands and book carrying.",
+      "shortDescription": "12oz heavy-duty natural cotton canvas tote hand-painted with textured sunflowers.",
+      "price": 899,
+      "discountPrice": 699,
+      "category": {
+        "_id": "cat_3",
+        "name": "Fabric Painting",
+        "slug": "fabric-painting"
+      },
+      "categoryName": "Fabric Painting",
+      "stock": 25,
+      "images": [
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166257/kamvora_studio/products/t1ib3mipojny7v2dfktj.jpg",
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166263/kamvora_studio/products/rz3renydl3u1dapw0vqv.jpg"
+      ],
+      "isFeatured": false,
+      "isAvailable": true,
+      "tags": [
+        "canvas-tote",
+        "hand-painted",
+        "eco-friendly",
+        "sunflowers"
+      ],
+      "specifications": {
+        "materials": "100% Heavy Organic Cotton Canvas, Washable Acrylic Mediums",
+        "dimensions": "15 x 16 inches with 10-inch shoulder drop",
+        "careInstructions": "Turn inside out, gentle hand wash in cold water, iron on reverse side.",
+        "handmadeIn": "Kamvora Studio, Mohali, Punjab",
+        "craftType": "Canvas Acrylic Art",
+        "weight": "210g"
+      },
+      "customizationAvailable": true,
+      "customizationGuide": "Custom names or initials can be painted alongside the floral motif.",
+      "rating": 4.8,
+      "numReviews": 11,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "prod_7",
+      "name": "Custom Realistic Charcoal Couple Portrait (A3 Size Framed)",
+      "slug": "custom-realistic-charcoal-couple-portrait-a3",
+      "description": "Turn your favorite cherished photograph into a timeless fine-art heirloom. Hand-drawn by Komal Kang using artist-grade willow charcoal and blending stumps on 250gsm acid-free Strathmore paper. Delivered fully framed with museum-quality glass.",
+      "shortDescription": "Hand-drawn lifelike charcoal portrait framed on archival heavyweight paper.",
+      "price": 3200,
+      "discountPrice": 2750,
+      "category": {
+        "_id": "cat_4",
+        "name": "Portraits",
+        "slug": "portraits"
+      },
+      "categoryName": "Portraits",
+      "stock": 10,
+      "images": [
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166265/kamvora_studio/products/ygl5uvxancywiwr95emf.jpg",
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166261/kamvora_studio/products/skoj7re0kwjxbwjdnoc8.jpg"
+      ],
+      "isFeatured": true,
+      "isAvailable": true,
+      "tags": [
+        "charcoal-portrait",
+        "sketch",
+        "custom-art",
+        "framed-art",
+        "anniversary-gift"
+      ],
+      "specifications": {
+        "materials": "Derwent Willow & Compressed Charcoal, 250gsm Archival Paper, Teak Frame",
+        "dimensions": "A3 (11.7 x 16.5 inches) with 1-inch outer frame",
+        "careInstructions": "Treated with archival fixative. Display out of direct dampness.",
+        "handmadeIn": "Kamvora Studio, Mohali, Punjab",
+        "craftType": "Fine Art Sketching & Charcoal Drawing",
+        "weight": "900g"
+      },
+      "customizationAvailable": true,
+      "customizationGuide": "Submit your high-resolution reference photo via the Custom Order page or checkout note.",
+      "rating": 5,
+      "numReviews": 18,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "prod_8",
+      "name": "Hand-Carved Wooden Keepsake Gift Box with Velvet Lining",
+      "slug": "hand-carved-wooden-keepsake-gift-box",
+      "description": "Exquisitely handcrafted from seasoned mango wood with delicate brass filigree inlays and floral carvings. Inside features a plush crimson velvet lining ideal for jewelry, love letters, and sacred keepsakes.",
+      "shortDescription": "Hand-carved solid mango wood keepsake box with brass floral inlays.",
+      "price": 1499,
+      "discountPrice": 1199,
+      "category": {
+        "_id": "cat_5",
+        "name": "Handmade Gifts",
+        "slug": "handmade-gifts"
+      },
+      "categoryName": "Handmade Gifts",
+      "stock": 14,
+      "images": [
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166267/kamvora_studio/products/epovuyanmwwtrxr5vcfy.jpg",
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166261/kamvora_studio/products/skoj7re0kwjxbwjdnoc8.jpg"
+      ],
+      "isFeatured": true,
+      "isAvailable": true,
+      "tags": [
+        "gift-box",
+        "wooden-craft",
+        "keepsake",
+        "hand-carved"
+      ],
+      "specifications": {
+        "materials": "Seasoned Mango Wood, Antique Brass Inlay, Micro-Velvet",
+        "dimensions": "8 x 5 x 3.5 inches",
+        "careInstructions": "Polish with natural beeswax twice a year. Keep away from excess water.",
+        "handmadeIn": "Kamvora Studio, Mohali, Punjab",
+        "craftType": "Wood Carving & Joinery",
+        "weight": "620g"
+      },
+      "customizationAvailable": true,
+      "customizationGuide": "Laser engraved or hand-pyrographed personal message inside lid available.",
+      "rating": 4.9,
+      "numReviews": 7,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "prod_9",
+      "name": "Personalized Couple Photo Preservation Resin Night Lamp",
+      "slug": "personalized-couple-photo-resin-night-lamp",
+      "description": "Immortalize your favorite memories inside crystal-clear resin preserved with dried baby’s breath flowers and gold sparkles. Embedded in a solid warm beechwood LED base that casts a cozy ambient glow across your bedroom.",
+      "shortDescription": "Warm LED beechwood night lamp with custom photo preserved in crystal resin.",
+      "price": 2699,
+      "discountPrice": 2299,
+      "category": {
+        "_id": "cat_6",
+        "name": "Customized Gifts",
+        "slug": "customized-gifts"
+      },
+      "categoryName": "Customized Gifts",
+      "stock": 9,
+      "images": [
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166261/kamvora_studio/products/skoj7re0kwjxbwjdnoc8.jpg",
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166260/kamvora_studio/products/zyqy6f9sf81f4ks7kokg.jpg"
+      ],
+      "isFeatured": true,
+      "isAvailable": true,
+      "tags": [
+        "resin-lamp",
+        "photo-preservation",
+        "custom-gift",
+        "night-light"
+      ],
+      "specifications": {
+        "materials": "Optical Crystal Resin, Real Preserved Botanicals, Solid Beechwood Base",
+        "dimensions": "6 inches height x 4.5 inches width x 2 inches depth",
+        "careInstructions": "Powered via USB 5V cable (included). Wipe resin surface with soft cloth.",
+        "handmadeIn": "Kamvora Studio, Mohali, Punjab",
+        "craftType": "Resin Botanical Preservation",
+        "weight": "750g"
+      },
+      "customizationAvailable": true,
+      "customizationGuide": "Upload your photo and couple names for seamless resin encapsulation.",
+      "rating": 5,
+      "numReviews": 22,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "prod_10",
+      "name": "Bohemian Artisan Macrame Wall Hanging with Driftwood",
+      "slug": "bohemian-artisan-macrame-wall-hanging",
+      "description": "A striking statement textile piece knotted by hand using 100% natural unbleached single-twist cotton cord. Suspended from hand-collected, naturally smoothed river driftwood for an authentic organic aesthetic.",
+      "shortDescription": "Large hand-knotted organic cotton macrame tapestry on natural driftwood.",
+      "price": 1799,
+      "discountPrice": 1399,
+      "category": {
+        "_id": "cat_7",
+        "name": "Home Decor",
+        "slug": "home-decor"
+      },
+      "categoryName": "Home Decor",
+      "stock": 11,
+      "images": [
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166269/kamvora_studio/products/ctqjwgyjqbm0isfayl7t.jpg",
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166257/kamvora_studio/products/t1ib3mipojny7v2dfktj.jpg"
+      ],
+      "isFeatured": false,
+      "isAvailable": true,
+      "tags": [
+        "macrame",
+        "boho-decor",
+        "wall-hanging",
+        "natural-cotton"
+      ],
+      "specifications": {
+        "materials": "100% Virgin Cotton Cord (4mm), Natural Driftwood Branch",
+        "dimensions": "18 inches wide branch, 28 inches hanging drop length",
+        "careInstructions": "Gently comb fringe tassels with a wide-tooth comb as desired.",
+        "handmadeIn": "Kamvora Studio, Mohali, Punjab",
+        "craftType": "Macrame Fiber Art",
+        "weight": "500g"
+      },
+      "customizationAvailable": false,
+      "rating": 4.9,
+      "numReviews": 10,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "prod_11",
+      "name": "Personalized Botanical Resin Alphabet Keychain with Real Flowers",
+      "slug": "personalized-botanical-resin-alphabet-keychain",
+      "description": "Carry a miniature garden wherever you journey. Each alphabet letter is painstakingly hand-cast with crystal-clear non-yellowing resin, real pressed forget-me-nots and baby’s breath, and a touch of gold foil, paired with a matching suede tassel.",
+      "shortDescription": "Custom initial resin keychain with real preserved botanicals and gold leafing.",
+      "price": 449,
+      "discountPrice": 349,
+      "category": {
+        "_id": "cat_8",
+        "name": "Personalized Accessories",
+        "slug": "personalized-accessories"
+      },
+      "categoryName": "Personalized Accessories",
+      "stock": 40,
+      "images": [
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166262/kamvora_studio/products/hsirc3x2zyjhvf6nuehp.jpg",
+        "https://res.cloudinary.com/n663kqtu/image/upload/v1792166267/kamvora_studio/products/epovuyanmwwtrxr5vcfy.jpg"
+      ],
+      "isFeatured": false,
+      "isAvailable": true,
+      "tags": [
+        "keychain",
+        "resin-alphabet",
+        "personalized",
+        "botanical"
+      ],
+      "specifications": {
+        "materials": "UV Hardened Epoxy Resin, Natural Dried Flowers, Stainless Steel Ring",
+        "dimensions": "Letter height approx 1.6 inches",
+        "careInstructions": "Durable and shatter-resistant for daily key ring use.",
+        "handmadeIn": "Kamvora Studio, Mohali, Punjab",
+        "craftType": "Miniature Resin Casting",
+        "weight": "40g"
+      },
+      "customizationAvailable": true,
+      "customizationGuide": "Specify the required Alphabet Letter (A-Z) in the customization note.",
+      "rating": 4.8,
+      "numReviews": 34,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    }
+  ],
+  "users": [
+    {
+      "_id": "user_admin",
+      "name": "Komal Kang (Admin)",
+      "email": "admin@kamvorastudio.com",
+      "password": "$2a$10$b3qWvQOV.BN/oKIT2FdJ8OpBbk1Ew7x.n35zwsX.dWJ5a1631wyBG",
+      "phone": "+91 99150-88706",
+      "role": "admin",
+      "addresses": [
+        {
+          "fullName": "Komal Kang",
+          "phone": "+91 99150-88706",
+          "addressLine": "Shop Number 399, Janta Market",
+          "city": "Mohali",
+          "state": "Punjab",
+          "postalCode": "160055",
+          "isDefault": true
+        }
+      ],
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "user_customer",
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@example.com",
+      "password": "$2a$10$b.4n8G9xUGtytFMeNJowvO.NsbtDgvz5rhXlMAhX40Ge6BEWuauDO",
+      "phone": "+91 98765-43210",
+      "role": "customer",
+      "addresses": [
+        {
+          "fullName": "Aarav Sharma",
+          "phone": "+91 98765-43210",
+          "addressLine": "House 142, Sector 70",
+          "city": "Mohali",
+          "state": "Punjab",
+          "postalCode": "160071",
+          "isDefault": true
+        }
+      ],
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    }
+  ],
+  "orders": [
+    {
+      "_id": "ord_1792085041785_ygzrg",
+      "orderNumber": "KAM-ORD-041781-9918",
+      "user": null,
+      "customerInfo": {
+        "name": "Aarav Meera",
+        "email": "aarav.meera@example.com",
+        "phone": "+919876543210"
+      },
+      "shippingAddress": {
+        "fullName": "Aarav Meera",
+        "phone": "+919876543210",
+        "addressLine": "Flat 402, Green Avenue",
+        "city": "Mohali",
+        "state": "Punjab",
+        "postalCode": "160055"
+      },
+      "items": [
+        {
+          "product": "prod_1",
+          "name": "Celestial Bloom Embroidered Floral Hoop (10-inch)",
+          "price": 1499,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=900&q=80",
+          "customizationNote": "Aarav & Meera - 12.02.2024"
+        }
+      ],
+      "itemsPrice": 1499,
+      "shippingPrice": 0,
+      "discountAmount": 0,
+      "couponApplied": {
+        "code": null,
+        "discount": 0
+      },
+      "totalPrice": 1499,
+      "paymentMethod": "COD",
+      "paymentStatus": "Pending",
+      "orderStatus": "Confirmed",
+      "orderNotes": "",
+      "createdAt": "2026-10-15T17:24:01.785Z"
+    }
+  ],
+  "customRequests": [
+    {
+      "_id": "cust_1792085545398_2l771",
+      "referenceNumber": "KAM-CUST-545396-9889",
+      "user": null,
+      "customerName": "Simran Kaur",
+      "email": "simran@example.com",
+      "phone": "+919876543210",
+      "productType": "Handmade Gifts",
+      "designDescription": "Charcoal sketch of our parents on their 30th anniversary",
+      "preferredColors": "Black and charcoal tones",
+      "budget": "₹3,000 - ₹5,000",
+      "requiredDate": "+061120-02-01T18:30:00.000Z",
+      "referenceImages": [],
+      "additionalInstructions": "",
+      "status": "Pending",
+      "createdAt": "2026-10-15T17:32:25.398Z"
+    }
+  ],
+  "coupons": [
+    {
+      "_id": "coup_1",
+      "code": "WELCOME10",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "minOrderAmount": 500,
+      "maxDiscountAmount": 500,
+      "expiryDate": "2028-12-31T00:00:00.000Z",
+      "usageLimit": 1000,
+      "timesUsed": 14,
+      "isActive": true,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "coup_2",
+      "code": "ARTLOVER",
+      "discountType": "fixed",
+      "discountValue": 200,
+      "minOrderAmount": 1200,
+      "expiryDate": "2028-12-31T00:00:00.000Z",
+      "usageLimit": 500,
+      "timesUsed": 22,
+      "isActive": true,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "coup_3",
+      "code": "STUDIO20",
+      "discountType": "percentage",
+      "discountValue": 20,
+      "minOrderAmount": 2500,
+      "maxDiscountAmount": 1000,
+      "expiryDate": "2028-12-31T00:00:00.000Z",
+      "usageLimit": 200,
+      "timesUsed": 5,
+      "isActive": true,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    }
+  ],
+  "reviews": [
+    {
+      "_id": "rev_1",
+      "product": "prod_1",
+      "name": "Simran Kaur (Chandigarh)",
+      "rating": 5,
+      "comment": "The French knot detailing on this embroidery hoop is beyond words! It was packed so lovingly with dried flower sprigs. The quality and patience Komal puts in is truly heartwarming.",
+      "isVerifiedPurchase": true,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    },
+    {
+      "_id": "rev_2",
+      "product": "prod_3",
+      "name": "Vikramjit Singh (Mohali)",
+      "rating": 5,
+      "comment": "Received the 14-inch ocean resin clock yesterday. It looks even more vibrant in person than in the photos! The silent quartz movement is completely noiseless. A masterpiece on my wall.",
+      "isVerifiedPurchase": true,
+      "createdAt": "2026-10-15T16:51:38.943Z"
+    }
+  ],
+  "subscribers": [],
+  "settings": {
+    "announcement": {
+      "text": "Handcrafted with Love | Discover Something Unique | Free Shipping on Orders Over ₹999",
+      "isActive": true,
+      "link": "/shop"
+    },
+    "contact": {
+      "email": "Kamvorastudio@gmail.com",
+      "phone": "+91 99150-88706",
+      "address": "Shop Number 399, Janta Market, Mohali, Punjab, India",
+      "instagram": "https://www.instagram.com/iamkomalkang?igsh=MWh4aWlhNzU1emd5cQ==",
+      "workingHours": "Mon - Sat: 10:00 AM - 7:30 PM IST"
+    },
+    "shipping": {
+      "shippingFee": 80,
+      "freeShippingThreshold": 999,
+      "codAvailable": true
+    },
+    "hero": {
+      "heading": "Art That Speaks. Crafts That Tell Stories.",
+      "subheading": "Discover thoughtfully handcrafted creations, personalized gifts, and unique artistic pieces made to make every moment special.",
+      "badgeText": "Handcrafted by Komal Kang | Mohali, Punjab"
+    }
+  }
+}
