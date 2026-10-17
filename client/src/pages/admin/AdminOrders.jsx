@@ -1,17 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import {
-  ShoppingBag,
   Search,
-  Filter,
-  Eye,
-  Truck,
-  CheckCircle2,
-  Clock,
-  X,
-  MapPin,
-  Phone,
-  Mail,
-  ExternalLink
+  X
 } from 'lucide-react';
 import api from '../../utils/api.js';
 import { formatPrice } from '../../utils/currency.js';

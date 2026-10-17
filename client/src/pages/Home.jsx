@@ -4,16 +4,12 @@ import {
   Sparkles,
   ArrowRight,
   Heart,
-  Palette,
   Gift,
   Clock,
   ShieldCheck,
   Star,
   CheckCircle2,
-  Mail,
-  Send,
-  SlidersHorizontal,
-  ChevronRight
+  Send
 } from 'lucide-react';
 import InstagramIcon from '../components/icons/InstagramIcon.jsx';
 import api from '../utils/api.js';

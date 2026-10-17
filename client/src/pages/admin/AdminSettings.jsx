@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Settings, Save, Sparkles, Truck, Phone, Mail, MapPin } from 'lucide-react';
+import { Save, Sparkles, Truck, MapPin } from 'lucide-react';
 import api from '../../utils/api.js';
 import { useToast } from '../../context/ToastContext.jsx';
 
@@ -40,7 +40,7 @@ const AdminSettings = () => {
         if (data.success && data.data) {
           setSettings(data.data);
         }
-      } catch (e) {
+      } catch {
         addToast('Failed to load store settings', 'error');
       } finally {
         setLoading(false);

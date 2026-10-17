@@ -3,11 +3,7 @@ import { useNavigate, Link } from 'react-router-dom';
 import {
   CreditCard,
   Truck,
-  ShieldCheck,
-  CheckCircle2,
   Lock,
-  ArrowRight,
-  Sparkles,
   AlertCircle
 } from 'lucide-react';
 import api from '../utils/api.js';

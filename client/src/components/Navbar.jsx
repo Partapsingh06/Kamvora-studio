@@ -12,8 +12,7 @@ import {
   Phone,
   ShieldCheck,
   LogOut,
-  Package,
-  Layers
+  Package
 } from 'lucide-react';
 import { useAuth } from '../context/AuthContext.jsx';
 import { useCart } from '../context/CartContext.jsx';
@@ -45,7 +44,7 @@ const Navbar = () => {
         if (data.success) {
           setCategories(data.data || []);
         }
-      } catch (e) {
+      } catch {
         // Fallback
       }
     };

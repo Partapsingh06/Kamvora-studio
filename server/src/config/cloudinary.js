@@ -1,6 +1,7 @@
 import { v2 as cloudinary } from 'cloudinary';
 import fs from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
 
 // Configure Cloudinary from environment
 const isConfigured = Boolean(
@@ -63,7 +64,7 @@ export const uploadImage = async (fileInput, folder = 'kamvora_studio/products')
   }
 
   // If buffer, write to server/uploads
-  const uploadDir = path.resolve(process.cwd(), 'uploads');
+  const uploadDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../uploads');
   if (!fs.existsSync(uploadDir)) {
     fs.mkdirSync(uploadDir, { recursive: true });
   }

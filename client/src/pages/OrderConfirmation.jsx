@@ -2,14 +2,9 @@ import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import {
   CheckCircle2,
-  Package,
   Truck,
-  Calendar,
   MapPin,
-  Phone,
-  Printer,
-  ArrowRight,
-  Sparkles
+  Printer
 } from 'lucide-react';
 import api from '../utils/api.js';
 import { formatPrice } from '../utils/currency.js';

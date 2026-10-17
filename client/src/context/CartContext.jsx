@@ -11,7 +11,7 @@ export const CartProvider = ({ children }) => {
     try {
       const saved = localStorage.getItem('kamvora_cart');
       return saved ? JSON.parse(saved) : [];
-    } catch (e) {
+    } catch {
       return [];
     }
   });
@@ -20,7 +20,7 @@ export const CartProvider = ({ children }) => {
     try {
       const saved = localStorage.getItem('kamvora_coupon');
       return saved ? JSON.parse(saved) : null;
-    } catch (e) {
+    } catch {
       return null;
     }
   });

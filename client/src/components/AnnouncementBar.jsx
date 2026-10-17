@@ -18,7 +18,7 @@ const AnnouncementBar = () => {
         if (data.success && data.data?.announcement) {
           setAnnouncement(data.data.announcement);
         }
-      } catch (e) {
+      } catch {
         // Fallback default
       }
     };

@@ -5,9 +5,7 @@ import {
   MapPin,
   Clock,
   Send,
-  CheckCircle2,
-  AlertCircle,
-  MessageSquare
+  CheckCircle2
 } from 'lucide-react';
 import InstagramIcon from '../components/icons/InstagramIcon.jsx';
 import api from '../utils/api.js';

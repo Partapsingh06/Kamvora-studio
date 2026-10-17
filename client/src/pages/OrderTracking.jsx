@@ -1,15 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import { useSearchParams, Link } from 'react-router-dom';
+import { useSearchParams } from 'react-router-dom';
 import {
   Search,
   Package,
-  Truck,
   CheckCircle2,
-  Clock,
-  Sparkles,
   AlertCircle,
-  ExternalLink,
-  MapPin
+  ExternalLink
 } from 'lucide-react';
 import api from '../utils/api.js';
 import { formatPrice } from '../utils/currency.js';

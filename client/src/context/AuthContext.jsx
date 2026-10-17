@@ -8,6 +8,12 @@ export const AuthProvider = ({ children }) => {
   const [token, setToken] = useState(localStorage.getItem('kamvora_token') || null);
   const [loading, setLoading] = useState(true);
 
+  const logout = () => {
+    setUser(null);
+    setToken(null);
+    localStorage.removeItem('kamvora_token');
+  };
+
   // Check current session on mount
   useEffect(() => {
     const fetchUserProfile = async () => {
@@ -52,12 +58,6 @@ export const AuthProvider = ({ children }) => {
       localStorage.setItem('kamvora_token', userPayload.token);
       return userPayload;
     }
-  };
-
-  const logout = () => {
-    setUser(null);
-    setToken(null);
-    localStorage.removeItem('kamvora_token');
   };
 
   const updateProfile = async (updates) => {

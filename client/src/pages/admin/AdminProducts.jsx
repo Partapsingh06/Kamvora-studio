@@ -1,17 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import {
-  Package,
   Plus,
   Search,
   Edit2,
   Trash2,
   Sparkles,
   Upload,
-  X,
-  Check,
-  AlertCircle,
-  Eye,
-  RefreshCw
+  X
 } from 'lucide-react';
 import api from '../../utils/api.js';
 import { formatPrice } from '../../utils/currency.js';

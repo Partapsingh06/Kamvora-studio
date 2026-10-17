@@ -11,7 +11,6 @@ import {
   ChevronRight,
   Check,
   MapPin,
-  Clock,
   Send
 } from 'lucide-react';
 import api from '../utils/api.js';

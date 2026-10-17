@@ -4,16 +4,7 @@ import {
   Sparkles,
   Upload,
   CheckCircle2,
-  Calendar,
-  IndianRupee,
-  Phone,
-  Mail,
-  Palette,
-  FileText,
-  Clock,
-  ArrowRight,
   ShieldCheck,
-  Image as ImageIcon,
   X
 } from 'lucide-react';
 import api from '../utils/api.js';

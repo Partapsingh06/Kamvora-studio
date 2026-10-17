@@ -10,7 +10,7 @@ export const WishlistProvider = ({ children }) => {
     try {
       const saved = localStorage.getItem('kamvora_wishlist');
       return saved ? JSON.parse(saved) : [];
-    } catch (e) {
+    } catch {
       return [];
     }
   });

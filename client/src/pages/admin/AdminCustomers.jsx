@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { Users, Mail, Phone, Calendar, ShieldCheck } from 'lucide-react';
 import api from '../../utils/api.js';
 import { useToast } from '../../context/ToastContext.jsx';
 

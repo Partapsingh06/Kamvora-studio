@@ -88,5 +88,5 @@ export const verifyRazorpaySignature = (razorpayOrderId, razorpayPaymentId, razo
     return true;
   }
 
-  return Boolean(razorpaySignature);
+  return false;
 };

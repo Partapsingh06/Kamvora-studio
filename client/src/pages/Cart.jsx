@@ -4,9 +4,7 @@ import {
   Trash2,
   ArrowRight,
   ShoppingBag,
-  Sparkles,
   Tag,
-  CheckCircle2,
   X,
   Truck
 } from 'lucide-react';

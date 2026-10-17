@@ -1,18 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import {
-  Sparkles,
-  Search,
-  CheckCircle2,
   Phone,
   Mail,
-  ExternalLink,
-  MessageSquare,
-  X,
-  Calendar,
-  IndianRupee
+  X
 } from 'lucide-react';
 import api from '../../utils/api.js';
-import { formatPrice } from '../../utils/currency.js';
 import { useToast } from '../../context/ToastContext.jsx';
 
 const AdminCustomRequests = () => {

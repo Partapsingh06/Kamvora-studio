@@ -4,13 +4,12 @@ import {
   Mail,
   Phone,
   MapPin,
-  Heart,
   ShieldCheck,
   Truck,
   Sparkles,
   ArrowUpRight
 } from 'lucide-react';
-import InstagramIcon from './icons/InstagramIcon';
+import InstagramIcon from './icons/InstagramIcon.jsx';
 
 const Footer = () => {
   return (

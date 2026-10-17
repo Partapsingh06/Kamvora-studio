@@ -4,17 +4,9 @@ import {
   User,
   ShoppingBag,
   Sparkles,
-  MapPin,
-  Lock,
   LogOut,
   ShieldCheck,
-  Package,
-  Calendar,
-  Clock,
-  Phone,
-  Mail,
-  CheckCircle2,
-  AlertCircle
+  Package
 } from 'lucide-react';
 import api from '../utils/api.js';
 import { useAuth } from '../context/AuthContext.jsx';

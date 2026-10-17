@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Sparkles, Heart, Award, MapPin, ArrowRight } from 'lucide-react';
+import { Heart, Award, MapPin, ArrowRight } from 'lucide-react';
 import InstagramIcon from '../components/icons/InstagramIcon.jsx';
 
 const About = () => {
