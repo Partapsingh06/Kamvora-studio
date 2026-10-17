@@ -303,7 +303,7 @@ Visit **`http://localhost:5173`** in your browser.
    - **Build Command:** `npm run build`
    - **Output Directory:** `dist`
 5. Add Environment Variables:
-   - `VITE_API_URL`: Your deployed Render backend URL (e.g. `https://kamvora-studio-api.onrender.com/api`)
+   - `VITE_API_URL`: Your deployed Render backend URL (e.g. `https://your-backend-name.onrender.com/api`)
    - `VITE_RAZORPAY_KEY_ID`: Your Razorpay Key ID
 
 ### C. MongoDB Atlas Setup
